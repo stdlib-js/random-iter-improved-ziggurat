@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-iter-improved-ziggurat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create an iterator for generating pseudorandom numbers drawn from a standard normal distribution using the Improved Ziggurat algorithm.",
   "license": "Apache-2.0",
   "author": {
