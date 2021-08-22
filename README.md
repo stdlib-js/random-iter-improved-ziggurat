@@ -280,7 +280,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [@marsaglia:2000b]: http://dx.doi.org/10.18637/jss.v005.i08
 
-[@marsaglia:1964b]: http://dx.doi.org/10.1080/00401706.1964.10490150
+[@marsaglia:1964b]: https://doi.org/10.1080/00401706.1964.10490150
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
