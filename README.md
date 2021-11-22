@@ -20,7 +20,7 @@ limitations under the License.
 
 # Standard Normal Random Numbers
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create an iterator for generating pseudorandom numbers drawn from a [standard normal][normal] distribution using the [Improved Ziggurat][ziggurat-algorithm] algorithm.
 
@@ -225,7 +225,7 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/random/base/improved-ziggurat`][@stdlib/random/base/improved-ziggurat]: normally distributed pseudorandom numbers using the improved Ziggurat method.
+-   <span class="package-name">[`@stdlib/random/base/improved-ziggurat`][@stdlib/random/base/improved-ziggurat]</span><span class="delimiter">: </span><span class="description">normally distributed pseudorandom numbers using the improved Ziggurat method.</span>
 
 </section>
 
@@ -276,8 +276,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-iter-improved-ziggurat/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-iter-improved-ziggurat?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/random-iter-improved-ziggurat.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/random-iter-improved-ziggurat/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
