@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-improved-ziggurat@deno/mod.js';
+import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-improved-ziggurat@v0.2.0-deno/mod.js';
 ```
 
 #### iterator( \[options] )
@@ -181,7 +181,7 @@ The returned iterator protocol-compliant object has the following properties:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-improved-ziggurat@deno/mod.js';
+import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-improved-ziggurat@v0.2.0-deno/mod.js';
 
 var it;
 var r;
